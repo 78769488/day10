@@ -5,7 +5,7 @@
 import os
 
 # 打印到屏幕的日志级别
-level_console = 'DEBUG'
+level_console = 'WARNING'
 
 # 保存到文件的日志级别
 level_files = 'INFO'
