@@ -1,0 +1,18 @@
+{
+  "GAME": [
+    {"Name": "CS", "Host": "123.207.245.156", "Port": 22, "UserName": "ubuntu", "PassWord": "girl0814" },
+    {"Name": "LOL", "Host": "123.207.245.156", "Port": 22, "UserName": "ubuntu", "PassWord": "girl0814" },
+    {"Name": "Dota", "Host": "123.207.245.156", "Port": 22, "UserName": "ubuntu", "PassWord": "girl0814" },
+    {"Name": "WarCraft3", "Host": "123.207.245.156", "Port": 22, "UserName": "ubuntu", "PassWord": "girl0814" },
+    {"Name": "StarCraft2", "Host": "123.207.245.156", "Port": 22, "UserName": "ubuntu", "PassWord": "girl0814" }
+  ],
+
+  "MOVIES": [
+    {"Name": "War", "Host": "123.207.245.156", "Port": 22, "UserName": "ubuntu", "PassWord": "girl0814" },
+    {"Name": "Crime", "Host": "123.207.245.156", "Port": 22, "UserName": "ubuntu", "PassWord": "girl0814" },
+    {"Name": "Action", "Host": "123.207.245.156", "Port": 22, "UserName": "ubuntu", "PassWord": "girl0814" },
+    {"Name": "Cartoon", "Host": "123.207.245.156", "Port": 22, "UserName": "ubuntu", "PassWord": "girl0814" },
+    {"Name": "Thriller", "Host": "123.207.245.156", "Port": 22, "UserName": "ubuntu", "PassWord": "girl0814" }
+  ]
+}
+
