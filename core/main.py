@@ -272,6 +272,8 @@ class MyFabric:
         """
         try:
             while True:
+                global exec_cmd_results
+                exec_cmd_results.clear()
                 cmd = input("Input commands which you want to exec on server[b=Back, q=Quit]:\n>>>").strip()
                 if cmd == "b":
                     break
