@@ -1,18 +1,18 @@
 {
   "GAME": [
-    {"Name": "CS", "Host": "123.207.245.156", "Port": 22, "UserName": "ubuntu", "PassWord": "girl0814" },
-    {"Name": "LOL", "Host": "123.207.245.156", "Port": 22, "UserName": "ubuntu", "PassWord": "girl0814" },
-    {"Name": "Dota", "Host": "123.207.245.156", "Port": 22, "UserName": "ubuntu", "PassWord": "girl0814" },
-    {"Name": "WarCraft3", "Host": "123.207.245.156", "Port": 22, "UserName": "ubuntu", "PassWord": "girl0814" },
-    {"Name": "StarCraft2", "Host": "123.207.245.156", "Port": 22, "UserName": "ubuntu", "PassWord": "girl0814" }
+    {"Name": "CS", "Host": "127.0.0.1", "Port": 22, "UserName": "ubuntu", "PassWord": "ubuntu" },
+    {"Name": "LOL", "Host": "127.0.0.1", "Port": 22, "UserName": "ubuntu", "PassWord": "ubuntu" },
+    {"Name": "Dota", "Host": "127.0.0.1", "Port": 22, "UserName": "ubuntu", "PassWord": "ubuntu" },
+    {"Name": "WarCraft3", "Host": "127.0.0.1", "Port": 22, "UserName": "ubuntu", "PassWord": "ubuntu" },
+    {"Name": "StarCraft2", "Host": "127.0.0.1", "Port": 22, "UserName": "ubuntu", "PassWord": "ubuntu" }
   ],
 
   "MOVIES": [
-    {"Name": "War", "Host": "123.207.245.156", "Port": 22, "UserName": "ubuntu", "PassWord": "girl0814" },
-    {"Name": "Crime", "Host": "123.207.245.156", "Port": 22, "UserName": "ubuntu", "PassWord": "girl0814" },
-    {"Name": "Action", "Host": "123.207.245.156", "Port": 22, "UserName": "ubuntu", "PassWord": "girl0814" },
-    {"Name": "Cartoon", "Host": "123.207.245.156", "Port": 22, "UserName": "ubuntu", "PassWord": "girl0814" },
-    {"Name": "Thriller", "Host": "123.207.245.156", "Port": 22, "UserName": "ubuntu", "PassWord": "girl0814" }
+    {"Name": "War", "Host": "127.0.0.1", "Port": 22, "UserName": "ubuntu", "PassWord": "ubuntu" },
+    {"Name": "Crime", "Host": "127.0.0.1", "Port": 22, "UserName": "ubuntu", "PassWord": "ubuntu" },
+    {"Name": "Action", "Host": "127.0.0.1", "Port": 22, "UserName": "ubuntu", "PassWord": "ubuntu" },
+    {"Name": "Cartoon", "Host": "127.0.0.1", "Port": 22, "UserName": "ubuntu", "PassWord": "ubuntu" },
+    {"Name": "Thriller", "Host": "127.0.0.1", "Port": 22, "UserName": "ubuntu", "PassWord": "ubuntu" }
   ]
 }
 
